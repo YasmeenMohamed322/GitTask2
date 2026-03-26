@@ -107,7 +107,7 @@ git tag -d v1.7
 ```bash
 git push origin --delete v1.7
 ```
-
+---
 
 git push
 ```
