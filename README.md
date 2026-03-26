@@ -103,7 +103,6 @@ git tag
 git tag -d v1.7
 ```
 
-### Delete remotely
 
 ```bash
 git push origin --delete v1.7
